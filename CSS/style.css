@@ -79,13 +79,13 @@ footer {
 			float:right;
 			
 }
-.clearfix:after {visibility: hidden;
+/*.clearfix:after {visibility: display;
 				display:block;
 				content: " ";
 				clear:both;
 				height:0;
 				font-size:0;
-}
+} */
 .name {color: #F15B31;
 	   font-weight:700;
 }
