@@ -1,0 +1,19 @@
+{
+  "name": "wdi-fundamentals-memorygame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julie-S-Bernal/wdi-fundamentals-memorygame.git"
+  },
+  "author": "Julie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julie-S-Bernal/wdi-fundamentals-memorygame/issues"
+  },
+  "homepage": "https://github.com/Julie-S-Bernal/wdi-fundamentals-memorygame#readme"
+}
